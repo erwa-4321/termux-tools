@@ -1,4 +1,11 @@
-# termux-tools
+# This file is sourced by pkg
+# Mirror by <username or short name of mirror owner>. Hosted in <city>, <country>.
+# <username longer name of mirror owner> : <url with more information about mirror or its owner>
+# <Longer description, for example detailing location, sync period, mirror bandwidth, ipv6 capability and other relevant info. Can be multiple sentences.>
+WEIGHT=1
+MAIN="<url to termux-main repo>"
+ROOT="<url to termux-root repo>"
+X11="<url to termux-x11 repo>"# termux-tools
 
 Some scripts and small programs that are packaged into termux's
 termux-tools package.
